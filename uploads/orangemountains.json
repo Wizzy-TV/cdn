@@ -126,7 +126,7 @@
     "spec": 2,
     "background": {
         "blur": 0,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/cdn/main/uploads/test.jpg",
         "alpha": 0,
         "color": "#1a1c1b"
     }
