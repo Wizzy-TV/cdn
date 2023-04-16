@@ -123,6 +123,12 @@
         "RED_560" : "#95d2b0",
         "RED_400": "#95d2b0"
     },
-    "spec": 2
+    "spec": 2,
+    "background": {
+        "blur": 0,
+        "url": "",
+        "alpha": 0,
+        "color": "#1a1c1b"
+    }
 }
 
