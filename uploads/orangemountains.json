@@ -33,49 +33,49 @@
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_PRIMARY": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_SECONDARY": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_TERTIARY": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_ACCENT": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_FLOATING": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_MENTIONED": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#84303a"
+            "#1a1927"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#84303a"
+            "#1a1927"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#84303a"
+            "#1a1927"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -84,7 +84,7 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#84303a"
+            "#1a1927"
         ],
         "CHANNELS_DEFAULT": [
             "#999999"
@@ -100,13 +100,13 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#95d2b0",
-        "PRIMARY_500": "#95d2b0",
-        "PRIMARY_600": "#84303a",
-        "PRIMARY_630": "#84303a",
-        "PRIMARY_660": "#84303a",
-        "PRIMARY_700": "#84303a",
-        "PRIMARY_800": "#84303a",
+        "PRIMARY_360": "#1a1927",
+        "PRIMARY_500": "#1a1927",
+        "PRIMARY_600": "#1a1927",
+        "PRIMARY_630": "#1a1927",
+        "PRIMARY_660": "#1a1927",
+        "PRIMARY_700": "#1a1927",
+        "PRIMARY_800": "#1a1927",
         "BRAND_260": "#95d2b0",
         "BRAND_360": "#95d2b0",
         "BRAND_500": "#95d2b0",
@@ -125,7 +125,7 @@
         "blur": 0,
         "url": "https://raw.githubusercontent.com/Wizzy-TV/cdn/main/uploads/test.jpg",
         "alpha": 0.9,
-        "color": "#84303a"
+        "color": "#1a1927"
     }
 }
 
