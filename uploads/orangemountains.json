@@ -94,9 +94,6 @@
         ],
         "CHANNEL_ICON": [
             "#ffffff"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#1a1c1b"
         ]
     },
     "rawColors": {
@@ -127,7 +124,7 @@
     "background": {
         "blur": 0,
         "url": "https://raw.githubusercontent.com/Wizzy-TV/cdn/main/uploads/test.jpg",
-        "alpha": 0,
+        "alpha": 0.9,
         "color": "#1a1c1b"
     }
 }
